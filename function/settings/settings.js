@@ -14,18 +14,18 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
+ nomerbot : '212660034163',
+ pairingNumber : '212660034163',
  figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
- nomerown : '212717457920',
- packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ nomorwa : '212660034163',
+ nameown : 'ADAMSNOUAR',
+ nomerown : '212660034163',
+ packname : 'sticker bY ',
+ author : 'SNOUAR AI',
+ namebot : '乂 SNOUAR AI',
+ wm : 'SNOUAR LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'SNOUAR LITE',
  jid: '@s.whatsapp.net'
 }
 
@@ -65,7 +65,7 @@ global.payment = {
 // Info Wait
 global.msg = {
  wait: '⏱️ *يرجى التحلي بالصبر*\n\> نحاول تلبية طلبكم ...',
- eror: '🤖 *Information Bot*\n\> Sorry for the inconvenience in using *Silana Ai*. There was an error in the system while executing the command.'
+ eror: '🤖 *Information Bot*\n\> Sorry for the inconvenience in using *SNOUAR Ai*. There was an error in the system while executing the command.'
 }
  
 // api_id web suntik
