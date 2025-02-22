@@ -44,7 +44,7 @@ async function createSticker(imageUrl) {
   try {
     const res = await axios.get(imageUrl, { responseType: 'arraybuffer' });
     const buffer = Buffer.from(res.data);
-    return await sticker(buffer, false, 'Pinterest Sticker', 'MINATO-BOT', ["✨"]);
+    return await sticker(buffer, false, 'Pinterest Sticker', 'SNOUAR-BOT', ["✨"]);
   } catch (error) {
     console.error("Error creating sticker:", error);
     return null;
