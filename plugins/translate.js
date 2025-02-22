@@ -1,7 +1,7 @@
 let handler = async (m, { conn, args }) => {
     // Check if the user provided a query and a language code
     if (args.length < 2) {
-        return conn.reply(m.chat, 'Usage: .translate <text> <language code> \n exemple : \n . translate hello my name is silana lite en', m);
+        return conn.reply(m.chat, 'Usage: .translate <text> <language code> \n exemple : \n . translate hello my name is snouar AI en', m);
     }
 
     const query = args.slice(0, -1).join(' '); // Extract the text to translate
