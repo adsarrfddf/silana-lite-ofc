@@ -1,5 +1,5 @@
 let handler = async (m, { conn, text }) => {
-    if (!text) return m.reply('Please provide a URL. Example: .ssweb https://instagram.com/noureddine_ouafy')
+    if (!text) return m.reply('Please provide a URL. Example: .ssweb https://www.instagram.com/adam_x____x?igsh=N2Q2ZTJmMnlhNXVw')
     
     let apiURL = `https://api.siputzx.my.id/api/tools/ssweb?url=${encodeURIComponent(text)}&theme=light&device=desktop`
     
