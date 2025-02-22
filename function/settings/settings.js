@@ -52,8 +52,8 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
+ sig: 'https://www.instagram.com/adam_x____x?igsh=N2Q2ZTJmMnlhNXVw',
+ sgh:  'https://www.instagram.com/adam_x____x?igsh=N2Q2ZTJmMnlhNXVw',
  sgc: 'https://whatsapp.com/channel/0029Vaa9FSx3WHTPYAIzdT0L'
 }
 // Donasi
