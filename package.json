@@ -1,7 +1,7 @@
 {
-  "name": "silanalite",
+  "name": "snouarlite",
   "version": "1.0.0",
-  "description": "Silana-lite",
+  "description": "Snouar-lite",
   "main": "index.js",
   "type": "module",
   "directories": {
