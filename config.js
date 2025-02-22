@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url'
 
 // Owner
 global.owner = [
-['212660034163', 'Noureddine', true]
+['212660034163', 'Adam', true]
 ]
 global.mods = []
 global.prems = []
