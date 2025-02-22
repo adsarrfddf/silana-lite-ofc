@@ -62,7 +62,7 @@ let handler = async (m, { conn, text }) => {
     cap += Object.entries(data.metadata)
         .map(([a, b]) => `> *- ${a.charAt(0).toUpperCase() + a.slice(1)} :* ${b}`)
         .join("\n");
-    cap += "\n\nSILANA LITE 🧠";
+    cap += "\n\nSNOUAR LITE 🧠";
 
     await conn.sendMessage(
         m.chat, {
