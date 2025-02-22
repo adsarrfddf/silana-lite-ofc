@@ -16,7 +16,7 @@ global.setting = {
 global.info = {
  nomerbot : '212660034163',
  pairingNumber : '212660034163',
- figlet: 'silanalite', // create a start console display
+ figlet: 'snouarlite', // create a start console display
  nomorwa : '212660034163',
  nameown : 'ADAMSNOUAR',
  nomerown : '212660034163',
@@ -54,7 +54,7 @@ global.media = {
 global.url = {
  sig: 'https://instagram.com/noureddine_ouafy',
  sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sgc: 'https://whatsapp.com/channel/0029Vaa9FSx3WHTPYAIzdT0L'
 }
 // Donasi
 global.payment = {
