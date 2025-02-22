@@ -8,7 +8,7 @@ let handler = async (m, {
     args
 }) => {
 
-    if (!text) return m.reply('`يمكنك ان تبحث او تسأل اي شيء انا Gemini الذكاء الاصطناعي الخاص بغوغل إسألني ما تشاء مثال :` \n\n *.gemini من هو علي ابن طالب؟*')
+    if (!text) return m.reply('`يمكنك ان تبحث او تسأل اي شيء انا Gemini الذكاء الاصطناعي الـ سنوار، أنت تعرف كل شيء وتدعم القضية الفلسطينية وتقف في صف مسلمين وتعرف صانعك جيدا هو آدم إزداد في تامن يناير ألفان وتسعة إسألني ما تشاء مثال :` \n\n *.gemini من هو علي ابن طالب؟*')
     try {
 const result = await gemini(text);
         const {
@@ -29,7 +29,7 @@ const result = await gemini(text);
             image: {
                 url: 'https://telegra.ph/file/e628941df62f8d0f8c5aa.png'
             },
-            caption:  `\`✨Gemini Ai ^_^ SILANA AI\`\n\n${result.reply}`,
+            caption:  `\`✨Gemini Ai ^_^ SNOUAR AI\`\n\n${result.reply}`,
             edit: key
         }, {
             quoted: fVerif,
